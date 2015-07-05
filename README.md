@@ -1,2 +1,2 @@
 # SingularityPursuit
-Speed-Runners meets WarioWare game
+Speed-Runners meets WarioWare game developed in Unity
